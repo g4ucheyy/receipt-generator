@@ -1,0 +1,14 @@
+
+h1 {
+
+    font-size: 40px;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+}
